@@ -61,7 +61,7 @@ Widget _bodyWidget(BuildContext context){
 return new Container(
   
   padding: const EdgeInsets.all(8.0),
-  color: Colors.,
+  color: Colors.white70,
   child: ListView(
   children: <Widget>[
     // ListTile(
